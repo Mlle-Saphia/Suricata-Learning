@@ -4,7 +4,6 @@ Bienvenue dans mon dépôt dédié à mon apprentissage de **Suricata**, un outi
 
 Ce projet documente mon évolution, mes manipulations, mes laboratoires pratiques et mes recherches dans le domaine de la cybersécurité.
 
----
 
 ## Objectifs du projet
 
@@ -17,7 +16,6 @@ Ce projet documente mon évolution, mes manipulations, mes laboratoires pratique
 - Analyser les fichiers de logs
 - Construire un laboratoire de cybersécurité complet
 
----
 
 ## Progression de l'apprentissage
 
@@ -32,7 +30,6 @@ Ce projet documente mon évolution, mes manipulations, mes laboratoires pratique
 [À venir] Chapitre 9 - Analyse des logs  
 [À venir] Chapitre 10 - Détection d'attaques  
 
----
 
 ## Environnement utilisé
 
@@ -43,7 +40,6 @@ Ce projet documente mon évolution, mes manipulations, mes laboratoires pratique
 - PowerShell
 - Wireshark
 
----
 
 ## Organisation du dépôt
 
@@ -74,7 +70,6 @@ Suricata-Learning
 - Lecture et compréhension des fichiers de logs
 - Documentation technique avec GitHub
 
----
 
 ## Captures et résultats
 
@@ -83,8 +78,6 @@ Les captures des différentes étapes d'installation, de configuration et des la
 ```
 screenshots/
 ```
-
----
 
 ## Laboratoires pratiques
 
@@ -102,7 +95,6 @@ Ils comprendront notamment :
 - Simulations d'attaques
 - Études de cas pratiques
 
----
 
 ## Objectif final
 
