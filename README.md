@@ -44,23 +44,23 @@ Ce projet documente mon évolution, mes manipulations, mes laboratoires et mes r
 
 
 
-\[x] Chapitre 1 - Introduction à Suricata  
+\[x] Chapitre 1 - Introduction à Suricata
 
-\[x] Chapitre 2 - Installation de Suricata  
+\[x] Chapitre 2 - Installation de Suricata
 
-\[x] Chapitre 3 - Bases des réseaux  
+\[x] Chapitre 3 - Bases des réseaux
 
-\[x] Chapitre 4 - Capture et analyse des paquets  
+\[x] Chapitre 4 - Capture et analyse des paquets
 
-\[ ] Chapitre 5 - Création des règles Suricata  
+\[ ] Chapitre 5 - Création des règles Suricata
 
-\[ ] Chapitre 6 - Analyse des alertes  
+\[ ] Chapitre 6 - Analyse des alertes
 
-\[ ] Chapitre 7 - Mode IDS  
+\[ ] Chapitre 7 - Mode IDS
 
-\[ ] Chapitre 8 - Mode IPS  
+\[ ] Chapitre 8 - Mode IPS
 
-\[ ] Chapitre 9 - Analyse des logs  
+\[ ] Chapitre 9 - Analyse des logs
 
 \[ ] Chapitre 10 - Détection d'attaques
 
